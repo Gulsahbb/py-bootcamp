@@ -1,4 +1,4 @@
-"""
+
 isim = "Gulsah"
 yas = 23
 malzeme = ['Elma', 1.49, 'Muz', 1, 'Süt', 2.99, 'Peynir', 4.49]
@@ -20,7 +20,7 @@ print(f'5.Eleman sonrası : {malzeme[5:]}')
 
 malzeme[3] = "Yumurta"
 print(malzeme)
-"""
+
 
 sayi = 15
 print(sayi,type(sayi))
