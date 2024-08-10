@@ -12,5 +12,7 @@ def bolme(sayi1,sayi2):
 
 sonuc = toplama(4,3)
 sonuc = cikarma(19,3)
+sonuc = carpma(7,234)
+sonuc = bolme(45,6)
 print(sonuc)
 
